@@ -3,7 +3,7 @@
 samconfig.toml
 
 # Packaged Template
-# packaged.yaml
+ packaged.yaml
 
 # System Files
 .DS_Store
